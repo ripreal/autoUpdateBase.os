@@ -1,2 +1,0 @@
-Сервер 1С:Предприятия не обнаружен
-server_addr=svrtest descr=11004(0x00002AFC): Запрошенное имя верно, но данные запрошенного типа не найдены.  line=1050 file=src\DataExchangeCommon.cpp
